@@ -25,3 +25,6 @@ print(f"10% Tip: ${tip_10: .2f}, Total Bill: ${total_10: .2f}")
 print(f"15% Tip: ${tip_15: .2f}, Total Bill: ${total_15: .2f}")
 print(f"20% Tip: ${tip_20: .2f}, Total Bill: ${total_20: .2f}")
 print(f"25% Tip: ${tip_25: .2f}, Total Bill: ${total_25: .2f}")
+
+# Tips are rounded to two decimal places
+
